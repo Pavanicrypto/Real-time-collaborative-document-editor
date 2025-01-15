@@ -72,3 +72,7 @@ Implementing authentication and authorization mechanisms is crucial to ensure th
 **Conclusion:**
 
 Building a real-time collaborative document editor requires a careful selection of technologies and frameworks. By leveraging React.js or Vue.js for the front end, Node.js or Python for the back end, and MongoDB or PostgreSQL for data storage, developers can create a robust, scalable, and user-friendly application. The key challenges lie in managing real-time updates, handling concurrent edits, and ensuring data integrity, all of which can be addressed with the right architectural decisions.
+
+**output of the task:**
+
+![image](https://github.com/user-attachments/assets/09b904db-1b35-4514-9ff5-c091033a550b)
