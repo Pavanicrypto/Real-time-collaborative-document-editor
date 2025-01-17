@@ -1,4 +1,19 @@
 # Real-time-collaborative-document-editor
+
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** Mamidi Pavani
+
+**INTERN ID:** CT08JEJ
+
+**DOMAIN:** Full Stack Web Development
+
+**BATCH DURATION:** January 5th,2025 to February 5th,2025
+
+**MENTOR NAME:** Neela Santhosh Kumar
+
+**DESCRIPTION:**
+
 Creating a real-time collaborative document editor involves a combination of front-end and back-end technologies that work together seamlessly to provide a responsive user experience. Here’s a detailed breakdown of the task, focusing on the frameworks and technologies specified.
 
 **Overview:**
